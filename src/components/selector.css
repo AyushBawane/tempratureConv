@@ -1,5 +1,5 @@
 .selector{
-    border: 1px solid blue;
+    border-right: 2px solid rgb(220, 218, 218);
     width: 30%;
     height: 100%;
     display: flex;
@@ -17,4 +17,12 @@
 
 .range{
     margin: 20px 0;
+}
+
+.inpTemp{
+    margin-top: 20px;
+    padding: 10px;
+    width: 30%;
+    border: 2px solid black;
+    font-weight: bold;
 }
